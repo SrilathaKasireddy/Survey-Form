@@ -1,0 +1,23 @@
+span{
+ color: red;
+}
+p{
+ font-size:10px;
+ padding-top: 10px;
+}
+
+textarea{
+ width:80%;
+ height:80px;
+ 
+ 
+}
+
+label{
+ padding-left:2%;
+ font-weight: 100;
+}
+
+
+
+
